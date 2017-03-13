@@ -12,7 +12,7 @@ html:  clean $(HTML)
 %.html: %.md
 	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 
-%.pdf:  %.md $(LATEX_TEMPLATE)
+%.pdf:  %.md $(LATEX_TEMPLATE) header.tex
 	python resume.py tex < $< | pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
