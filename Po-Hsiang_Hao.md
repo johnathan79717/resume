@@ -9,7 +9,7 @@ Experience
 
 -   **Mozilla** (Taipei, Taiwan)
 
-    *Senior Software Engineer*, February 2017 - present
+    *Senior Software Engineer*, February 2017 - Present
 
     *Software Engineer*, September 2014 - January 2017
 
