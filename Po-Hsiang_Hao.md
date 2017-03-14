@@ -43,9 +43,11 @@ Education
 Projects
 --------
 
-- **A Chinese Dark Chess AI** using alpha-beta pruning and heuristic evaluating function.  Won the competition in the final exam of that course
+- **A Chinese Dark Chess AI** using alpha-beta pruning and a heuristic evaluating function\
+  Placed 1st in class with 9 wins, 1 loss and 2 draws
 
-- [**Foodle Taiwan**](https://foodletaiwan.appspot.com/) is a website to search restaurants based on price and distance criteria.  My contribution was writing a Ruby crawler to get and restaurants data from the biggest BBS site in Taiwan
+- [**Foodle Taiwan**](https://foodletaiwan.appspot.com/): wrote a crawler to get and parse restaurants data from the biggest BBS site in Taiwan, and use Google Maps API to search restaurants based on criteria such as price and distance
+
 
 
 Skills
