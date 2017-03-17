@@ -13,7 +13,7 @@ Experience
 
     *Software Engineer*, September 2014 - January 2017
 
-    - Implemented cache isolation for various network protocols in Firefox, which is vital for the [Containers](https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/) feature and the First Party Isolation feature in the [Tor Uplifing Project](https://blog.torproject.org/blog/tor-heart-firefox)
+    - Implemented cache isolation for various network protocols in Firefox, which is vital for the [Containers](https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/) feature and the First Party Isolation feature in the [Tor Uplifting Project](https://blog.torproject.org/blog/tor-heart-firefox)
     - Created a tool to sign Firefox OS packages and also implemented the verification logic
     - Maintained the RTSP module in Firefox OS
 
@@ -27,7 +27,7 @@ Experience
 
     *Developer Intern*, Summer 2012
 
-    - Maintained the backend server (Ruby on Rails) and the internal pages for statistics
+    - Maintained PicCollage's website (Ruby on Rails) and the internal pages for statistics
 
 Education
 ---------
