@@ -34,10 +34,10 @@ Education
 
 -   **National Taiwan University** (Taipei, Taiwan)
 
-    *M.S. in Electrical Engineering*, Fall 2012 - Sprint 2014
-    - Designed an embedded language in **Haskell**, which can be used to program and generate instructions for a chip that my lab designed for cryptographic computations
+    - *M.S.* in ***Electrical Engineering***, 2012 - 2014
+        - Designed and implemented an embedded language in **Haskell**, which programmed to generate instructions for a chip specialized for cryptographic computations
 
-    *B.S. Double Major in Electrical Engineering and Mathematics* (GPA 3.9/4.3), Fall 2008 - Spring 2012
+    - *B.S.* ***Double Major*** in ***Electrical Engineering*** and ***Mathematics*** (GPA 3.9/4.3), 2008-2012
 
 
 Projects
