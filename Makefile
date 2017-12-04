@@ -4,6 +4,9 @@ PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 LATEX_TEMPLATE=./pandoc-templates/default.latex
 
+default: Po-Hsiang_Hao.pdf
+	open Po-Hsiang_Hao.pdf
+
 all:    clean $(PDFS) $(HTML)
 
 pdf:   clean $(PDFS)
